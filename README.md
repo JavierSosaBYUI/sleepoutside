@@ -18,3 +18,7 @@ Use this as a starting point to complete the WDD 330 team activity: the SleepOut
 - `npm run build` to build final files when you are ready to turn in.
 - `npm run lint` to run ESLint against your code to find errors.
 - `npm run format` to run Prettier to automatically format your code.
+
+## Link to access sleeptoutside webside that is hosted on Netlify
+
+- https://6734e24afed4aa00d7121856--spectacular-fenglisu-111250.netlify.app/ (This is the link to share with the instructor when he needs to view the site.)
